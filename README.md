@@ -14,6 +14,8 @@ Play around with flutter (dart) so implement a multi platform app(s) into my web
 Use the web-page as my personal updates on what im working on
 Apply for jobs as a developer once I feel contecnt with my allaround skills.
 
+My overall goal is to find something I can focus on to contribute to metaverse and make a living on it.
+
 
 <!---
 zyx-id/zyx-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
